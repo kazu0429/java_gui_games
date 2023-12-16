@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NumberLink>
+<title>ナンバーリンク</title>
+<Mondai>
+<question>１□□□３</question>
+<question>□□２□□</question>
+<question>□□□３□</question>
+<question>□□□１□</question>
+<question>２□□□□</question>
+<answer>上┌──右</answer>
+<answer>││左─┐</answer>
+<answer>│└─右│</answer>
+<answer>└──右│</answer>
+<answer>左───┘</answer>
+</Mondai>
+<Mondai>
+<question>１□□２３</question>
+<question>□２３□□</question>
+<question>□□４□□</question>
+<question>５□□□□</question>
+<question>□□５１４</question>
+<answer>上┌─右上</answer>
+<answer>│下左─┘</answer>
+<answer>└┐左─┐</answer>
+<answer>上└─┐│</answer>
+<answer>└─右下下</answer>
+</Mondai>
+    <Mondai>
+        <question>□□□１２</question>
+        <question>□□３□□</question>
+        <question>□□１□４</question>
+        <question>□３□□□</question>
+        <question>□□□２４</question>
+        <answer>┌──右上</answer>
+        <answer>│┌右┌┘</answer>
+        <answer>││上│上</answer>
+        <answer>│下│││</answer>
+        <answer>└─┘下下</answer>
+    </Mondai>
+    <Mondai>
+        <question>１□□□□□</question>
+        <question>２□□□□１</question>
+        <question>□□□３□２</question>
+        <question>□□□４□３</question>
+        <question>□４□□□５</question>
+        <question>□□□５□□</question>
+        <answer>左────┐</answer>
+        <answer>左───┐下</answer>
+        <answer>┌──右└右</answer>
+        <answer>│┌─右┌右</answer>
+        <answer>│下┌─┘上</answer>
+        <answer>└─┘左─┘</answer>
+    </Mondai>
+    <Mondai>
+        <question>１□□□□□</question>
+        <question>□２□３１□</question>
+        <question>□３□□□□</question>
+        <question>□□□□□□</question>
+        <question>□□□□□４</question>
+        <question>２４□□□□</question>
+        <answer>左────┐</answer>
+        <answer>┌右┌右左┘</answer>
+        <answer>│上└──┐</answer>
+        <answer>││┌┐┌┘</answer>
+        <answer>│└┘└┘上</answer>
+        <answer>下左───┘</answer>
+    </Mondai>
+    <Mondai>
+        <question>□１□□２３４</question>
+        <question>□□□□□□□</question>
+        <question>□２３□５□□</question>
+        <question>□□６□□□４</question>
+        <question>７□□□６□５</question>
+        <question>□８□□□□１</question>
+        <question>□７□□□□８</question>
+        <answer>┌右┌─右上上</answer>
+        <answer>│┌┘┌─┘│</answer>
+        <answer>│下左┘左┐│</answer>
+        <answer>└┐左─┐│下</answer>
+        <answer>上└─┐下└右</answer>
+        <answer>│左┐└──右</answer>
+        <answer>└右└───右</answer>
+    </Mondai>
+     <Mondai>
+        <question>１２□□□□３</question>
+        <question>□□□□１２□</question>
+        <question>４□□□□□□</question>
+        <question>３□４□５６□</question>
+        <question>７□□□□□□</question>
+        <question>□６□□□５□</question>
+        <question>□□□７□□□</question>
+        <answer>上左───┐上</answer>
+        <answer>└───右下│</answer>
+        <answer>左─┐┌──┘</answer>
+        <answer>左┐下│上左┐</answer>
+        <answer>上└─┘└┐│</answer>
+        <answer>│左──┐下│</answer>
+        <answer>└──右└─┘</answer>
+    </Mondai>
+     <Mondai>
+        <question>□□□□□□３</question>
+        <question>□４□□５２□</question>
+        <question>□□□□□□□</question>
+        <question>□□□□□□３</question>
+        <question>１□□□□□５</question>
+        <question>６□４□□□２</question>
+        <question>□□６□□□１</question>
+        <answer>┌─┐┌─┐上</answer>
+        <answer>│上││上下│</answer>
+        <answer>││││└┐│</answer>
+        <answer>│││└┐│下</answer>
+        <answer>下│└┐│└右</answer>
+        <answer>上└右│└─右</answer>
+        <answer>└─右└──右</answer>
+    </Mondai>
+     <Mondai>
+        <question>□□１２□□３</question>
+        <question>□２□□３□１</question>
+        <question>□□□□□□４</question>
+        <question>□□５□□□□</question>
+        <question>□４□□６□□</question>
+        <question>□７□□□□□</question>
+        <question>□□□□５７６</question>
+        <answer>┌─右上┌─右</answer>
+        <answer>│左─┘下┌右</answer>
+        <answer>└────┘上</answer>
+        <answer>┌─右┌──┘</answer>
+        <answer>│左─┘左─┐</answer>
+        <answer>│左───┐│</answer>
+        <answer>└───右下下</answer>
+    </Mondai>
+    <Mondai>
+        <question>□□□□□□１□□□</question>
+        <question>□□□□□□□□４□</question>
+        <question>□□□□□□□□□□</question>
+        <question>□□□□□□３□□□</question>
+        <question>□５□□□□□６□□</question>
+        <question>□□□□４２□□□□</question>
+        <question>２□□□□□５□□□</question>
+        <question>□□６１□□□□□□</question>
+        <question>□□□□□□□□３□</question>
+        <question>□□□□□□□□□□</question>
+        <answer>┌─────右┌─┐</answer>
+        <answer>│┌─────┘上│</answer>
+        <answer>││┌────┐││</answer>
+        <answer>│││┌──右│││</answer>
+        <answer>│下││┌─┐下││</answer>
+        <answer>└┐││下上└─┘│</answer>
+        <answer>上││└┐│左──┘</answer>
+        <answer>││下上│└───┐</answer>
+        <answer>│└─┘└───右│</answer>
+        <answer>└────────┘</answer>
+    </Mondai>
+</NumberLink>
